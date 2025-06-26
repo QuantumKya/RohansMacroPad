@@ -1,5 +1,7 @@
 # RohansMacroPad
 
+![Render](readme_images/full_render.png)
+
 ## What it is
 I wanted to follow the tutorial on [hackpad.hackclub.com](hackpad.hackclub.com) accurately and make a macropad with 4 buttons, a XIAO thingy, and two LEDs.
 
@@ -20,4 +22,4 @@ This is an image of the Hackpad case.
 ![Hackpad Case](readme_images/hackpad_render.png)
 
 ## How I made it
-I followed the tutorial on Hackclub's website! It was vague at times, but it was very good at teaching me the basics of everything!
+I followed the tutorial on Hackclub's website! It was very good at teaching me the basics of everything!
