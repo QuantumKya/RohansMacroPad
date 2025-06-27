@@ -13,6 +13,7 @@ BOM:
 - 4x Blank DSA Keycaps
 - 4x M3x16 Bolt
 - 4x M3 Heatset
+
 Others:
 - KMK - main.py
 - Hackpad Base.step
